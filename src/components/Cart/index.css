@@ -1,0 +1,26 @@
+.cart-list-item{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.empty-view{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: cursive;
+    height:100vh;
+
+}
+.cart-head{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.cart-total{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: number;
+}
